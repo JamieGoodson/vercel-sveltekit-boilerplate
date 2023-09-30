@@ -1,6 +1,6 @@
-# SvelteKit Demo app
+# Vercel SvelteKit TypeScript Boilerplate
 
-The official demo app for SvelteKit, hosted on Vercel.
+Based on the official demo app for SvelteKit, hosted on Vercel.
 
 ## Deploy Your Own
 
